@@ -18,6 +18,7 @@ class Rope {
       var pointB = this.pointB;
       push();
 
+      //set the value of stroke to hide the rope
       stroke(48, 22, 8);
       strokeWeight(4);
 
